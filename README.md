@@ -7,4 +7,8 @@ Access to bank accounts enable households to save and facilitate payments while 
 Therefore, access to bank accounts is an essential contributor to long-term economic growth.
 
 The machine learning model helps to predict using certain data input to
-find out before hand if a person is likely to open a bank account
+find out before hand if a person is likely to open a bank account.
+
+# Dataset
+
+The data used to train the model was gotten from Zindi
